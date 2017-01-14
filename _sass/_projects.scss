@@ -4,8 +4,8 @@
 
  .main-item {
 	position: relative;
-	margin-top: 2em;
-	margin-bottom: 2em;
+	margin-top: 0em;
+	margin-bottom: 0.5em;
 	font-size: 1em;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .main-item + .main-item {
-	margin-top: 2em;
+	margin-top: 0.5em;
 }
 
 .main-item__project {
@@ -28,6 +28,7 @@
   border-radius: 3px;
   background-size: cover;
   background-position: center;
+  display: inline-block;
 }
 
 .main-item__project-overlay {
@@ -78,13 +79,13 @@
 }
 
 .simon {
-  background-image: url("https://img.gs/ggdknhnmbr/300x200/assets/img/simon-screenshot.png");
+  background-image: url("https://img.gs/ggdknhnmbr/300x200/vincecampanale.com/assets/img/simon-screenshot.png");
 }
 
 .pomodoro {
-  background-image: url("https://img.gs/ggdknhnmbr/300x200/assets/img/pomodoro-timer.png")
+  background-image: url("https://img.gs/ggdknhnmbr/300x200/vincecampanale.com/assets/img/pomodoro-timer.png")
 }
 
 .calculator {
-  background-image: url("https://img.gs/ggdknhnmbr/300x200/assets/img/js-calculator.png")
+  background-image: url("https://img.gs/ggdknhnmbr/300x200/vincecampanale.com/assets/img/js-calculator.png")
 }
