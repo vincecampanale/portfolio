@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solved: Symmetric Difference of Multiple Arrays (Part 3)"
-date:   2017-01-05
+date:   2017-01-10
 url:  http://www.vincecampanale.com/blog/2017/01/05/symmetric-difference-of-multiple-arrays-part3/
 ---
 This post is Part 3 of a four part series:  
