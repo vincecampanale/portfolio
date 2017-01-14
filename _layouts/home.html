@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Projects</h1>
+  <article class="main-item main-item__project simon">
+    <a href="http://vincecampanale.com/simon-game">
+      <div class="main-item__project-overlay"></div>
+      <div class="main-item__project-text">
+        <h3>Simon Game</h3>
+        <h4>HTML, CSS (SCSS), Javascript (ES6)</h4>
+      </div>
+    </a>
+  </article>
+  <article class="main-item main-item__project pomodoro">
+    <a href="http://vincecampanale.com/pomodoro-timer">
+      <div class="main-item__project-overlay"></div>
+      <div class="main-item__project-text">
+        <h3>Pomodoro Timer</h3>
+        <h4>HTML, CSS, Javascript</h4>
+      </div>
+    </a>
+  </article>
+  <article class="main-item main-item__project calculator">
+    <a href="http://vincecampanale.com/js-calculator">
+      <div class="main-item__project-overlay"></div>
+      <div class="main-item__project-text">
+        <h3>Calculator</h3>
+        <h4>HTML, CSS, Javascript</h4>
+      </div>
+    </a>
+  </article>
+
+
+  <h1 class="page-heading">Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  <a class="blog-link" href="http://vincecampanale.blog">View more posts...</a>
+
+</div>
