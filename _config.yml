@@ -27,9 +27,9 @@ sass:
   sass_dir: _sass
 include: ['_pages']
 markdown: kramdown
-# theme: minima
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+permalink: pretty
