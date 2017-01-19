@@ -4,9 +4,23 @@
   margin: -200px auto -200px auto;
   position: relative;
   padding: 0 0 0 0;
+  display: block;
 }
 
 .about-text {
   width: 307px;
-  margin: 0 auto;
+  margin: 20px auto;
+}
+
+@include media-query(720px) {
+  .about-image {
+    margin: -10em auto -7.5em auto;
+    display: inline-block;
+  }
+}
+
+@include media-query(400px) {
+  .about-text {
+    margin: 50px auto;
+  }
 }
