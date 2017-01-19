@@ -33,6 +33,21 @@
   margin-left: 16%;
 }
 
+@include media-query($on-palm) {
+  #left {
+    margin-left: 20%;
+  }
+  .site-title {
+    margin-left: 5%;
+  }
+  #right {
+    margin-left: 5%;
+  }
+}
+
+
+
+
 .site-nav {
   float: right;
   line-height: 56px;
@@ -73,7 +88,6 @@
         fill: $grey-color-dark;
       }
     }
-
     .page-link {
       display: block;
       padding: 5px 10px;

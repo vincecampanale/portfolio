@@ -14,8 +14,17 @@
 
 @include media-query(720px) {
   .about-image {
-    margin: -10em auto -7.5em auto;
+    margin: -12em auto -10em auto;
     display: inline-block;
+  }
+}
+@include media-query(620px) {
+  .about-image {
+    margin: -9em auto -7em auto;
+  }
+}@include media-query(450px) {
+  .about-image {
+    margin: -6em auto -5em auto;
   }
 }
 
