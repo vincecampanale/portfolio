@@ -45,6 +45,17 @@
   }
 }
 
+@include media-query(480px) {
+  #left {
+    margin-left: 5%;
+  }
+  .site-title {
+    margin-left: 5%;
+  }
+  #right {
+    margin-left: 5%;
+  }
+}
 
 
 
