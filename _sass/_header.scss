@@ -56,6 +56,7 @@
     &:last-child {
       margin-right: 30px;
     }
+
   }
 
   @include media-query($on-palm) {
