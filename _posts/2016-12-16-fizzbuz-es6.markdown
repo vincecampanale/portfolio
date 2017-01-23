@@ -2,7 +2,7 @@
 layout: post
 title:  "Fizzbuzz, meet ES6"
 date:   2016-12-16
-url:  http://www.vincecampanale.com/blog/2016/12/16/fizzbuz-es6/
+url:  /blog/2016/12/16/fizzbuz-es6/
 ---
 
 For my challenge today, I'm going to put a new twist on a classic problem. If you haven't heard of "Fizzbuzz," I'm truly honored to be the first person to introduce you two. This most certainly will not be the last time you encounter "the 'Buzz".

@@ -2,12 +2,12 @@
 layout: post
 title:  "Solved: Symmetric Difference of Multiple Arrays (Part 1)"
 date:   2017-01-03
-url:  http://www.vincecampanale.com/blog/2017/01/03/symmetric-difference-of-multiple-arrays-part1/
+url:  /blog/2017/01/03/symmetric-difference-of-multiple-arrays-part1/
 ---
 This post is Part 1 of a four part series.  
 Symmetric Difference of Multiple Arrays (Part 1) <- You are here  
 [Symmetric Difference of Multiple Arrays (Part 2)](http://www.vincecampanale.com/blog/2017/01/05/symmetric-difference-of-multiple-arrays-part2/)  
-[Symmetric Difference of Multiple Arrays (Part 3)](http://www.vincecampanale.com/blog/2017/01/05/symmetric-difference-of-multiple-arrays-part3/)  
+[Symmetric Difference of Multiple Arrays (Part 3)](http://www.vincecampanale.com/blog/2017/01/10/symmetric-difference-of-multiple-arrays-part3/)  
 [Symmetric Difference of Multiple Arrays (Part 4)](http://www.vincecampanale.com/blog/2017/01/12/symmetric-difference-of-multiple-arrays-part4/)  
 
 After countless failed attempts and lines of code deleted, I finally solved the problem of finding the symmetric difference of multiple arrays. If you're struggling with this problem for homework, Free Code Camp, Codewars, or wherever you may have encountered it, rest assured that you are not alone -- this one is a doozy. The solution has several distinct steps to it and in the interest of keeping these posts reasonably concise, I've decided to split the explanation of this problem into several parts.

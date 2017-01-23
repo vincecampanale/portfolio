@@ -2,12 +2,12 @@
 layout: post
 title:  "Solved: Symmetric Difference of Multiple Arrays (Part 2)"
 date:   2017-01-05
-url: http://www.vincecampanale.com/blog/2017/01/05/symmetric-difference-of-multiple-arrays-part2/
+url: /blog/2017/01/05/symmetric-difference-of-multiple-arrays-part2/
 ---
 This post is Part 2 of a four part series:  
 [Symmetric Difference of Multiple Arrays (Part 1)](http://www.vincecampanale.com/blog/2017/01/03/symmetric-difference-of-multiple-arrays-part1/)  
 Symmetric Difference of Multiple Arrays (Part 2) <- You are here  
-[Symmetric Difference of Multiple Arrays (Part 3)](http://www.vincecampanale.com/blog/2017/01/05/symmetric-difference-of-multiple-arrays-part3/)  
+[Symmetric Difference of Multiple Arrays (Part 3)](http://www.vincecampanale.com/blog/2017/01/10/symmetric-difference-of-multiple-arrays-part3/)  
 [Symmetric Difference of Multiple Arrays (Part 4)](http://www.vincecampanale.com/blog/2017/01/12/symmetric-difference-of-multiple-arrays-part4/)  
 
 In this section, I'm going to go over steps one and two of the strategy outlined in the previous post.  

@@ -2,7 +2,7 @@
 layout: post
 title:  "Solved: The Caesar Cipher"
 date:   2017-01-20
-url: http://www.vincecampanale.com/blog/2017/01/05/caesar-cipher/
+url: /blog/2017/01/05/caesar-cipher/
 ---
 
 [According to learncryptography.com](https://learncryptography.com/classical-encryption/caesar-cipher), the Caesar Cipher (aka a shift cipher), is a very simple form of encryption "where each letter in the original message is replaced with a letter corresponding to a certain number of letters up or down in the alphabet."
