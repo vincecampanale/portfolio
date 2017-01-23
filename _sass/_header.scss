@@ -41,8 +41,6 @@
     }
   }
 
-
-
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
@@ -68,6 +66,11 @@
       &:not(:last-child) {
         margin-right: 12px;
       }
+    }
+  }
+  @include media-query(440px) {
+    .site-title {
+      order: 1;
     }
   }
 }
