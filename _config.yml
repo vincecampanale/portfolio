@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vincecampanale.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _vincecampanale
 github_username:  vincecampanale
+google_analytics: UA-100590765-1
 
 # Build settings
 sass:
