@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Vince Campanale | Developer
-email: vince@vincecampanale.com
+email: contact.me@vincecampanale.com
 description: >
   Personal portfolio for Vince Campanale.
 baseurl: "" # the subpath of your site, e.g. /blog
