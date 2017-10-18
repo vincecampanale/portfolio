@@ -31,6 +31,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
 permalink: pretty
